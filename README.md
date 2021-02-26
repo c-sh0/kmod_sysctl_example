@@ -1,4 +1,4 @@
-# kmod_sysctl_example
+# lkm_sysctl_example
 Example sysctl kernel module - create a custom runtime kernel parameter
 - Creates */proc/sys/example_sysctl/value*
 - Check min,max values, ie: *example_sysctl.value={0,1,2,3}*
